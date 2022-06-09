@@ -56,13 +56,7 @@ Aqui estão algumas das linguagens e plataformas utilizadas para o desenvolvimen
 <span id="organizacao">
 
 ## 🗂️ Organização
-📁 nlw
-> 📁 assets
->> 📁 fonts
->> 📁 fotos
-> 📝 index.html
-> 📝 main.js
-> 📝 style.css
+Em breve!
 
 <br />
   
